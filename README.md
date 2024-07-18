@@ -1,4 +1,4 @@
-# image-binary-classification
+# image-binary-human-classification
 ## using keras DenseNet201 model for human binary classification whose human or not
 # below there are some graphic which is for model result
 
